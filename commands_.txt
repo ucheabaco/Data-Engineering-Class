@@ -1,0 +1,64 @@
+    1  ls
+    2  ls
+    3  cd Desktop
+    4  ls
+    5  mkdir "class work"
+    6  ls
+    7  cd "class work"
+    8  ls
+    9  pwd
+   10  git clone https://github.com/VivianmarisH/Data-Engineering-.git
+   11  ls
+   12  cd "Data-Engineering-"
+   13  ls
+   14  touch scrypt.py analysis.sql
+   15  ls
+   16  git add .
+   17  git status
+   18  git commit -m "I am adding a sql and py file"
+   19  git config --global user.email "oguadinmavivian@gmail.com"
+   20  git config --global user.name "VivianmarisH"
+   21  git commit -m "I am commiting a py and a sql file"
+   22  git status
+   23  git remote add linkage https://github.com/VivianmarisH/Data-Engineering-.git
+   24  git push linkage
+   25  History
+   26  history >> commands.txt
+    1  ls
+    2  ls
+    3  cd Desktop
+    4  ls
+    5  mkdir "class work"
+    6  ls
+    7  cd "class work"
+    8  ls
+    9  pwd
+   10  git clone https://github.com/VivianmarisH/Data-Engineering-.git
+   11  ls
+   12  cd "Data-Engineering-"
+   13  ls
+   14  touch scrypt.py analysis.sql
+   15  ls
+   16  git add .
+   17  git status
+   18  git commit -m "I am adding a sql and py file"
+   19  git config --global user.email "oguadinmavivian@gmail.com"
+   20  git config --global user.name "VivianmarisH"
+   21  git commit -m "I am commiting a py and a sql file"
+   22  git status
+   23  git remote add linkage https://github.com/VivianmarisH/Data-Engineering-.git
+   24  git push linkage
+   25  History
+   26  history >> commands.txt
+   27  cat commands.txt
+   28  ls
+   29  git add "code_first.ipynb"
+   30  git commit -m "I created a new ipynb"
+   31  git status
+   32  git add code_first.ipynb
+   33  git status
+   34  git add .
+   35  git status
+   36  git commit -m "I added my first ipynb file"
+   37  git push linkage
+   38  history >> commands.txt
